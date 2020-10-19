@@ -1,4 +1,4 @@
-# Geez-Number-Prediction
+# Geez (Amharic) Number Prediction
 ## Installation
 **Importing Libraries**</br>
 * Numpy
