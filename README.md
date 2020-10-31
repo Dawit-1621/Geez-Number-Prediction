@@ -21,7 +21,7 @@ In this project will built and training Geez number prediction model. We will us
 
 ### Data Generators
 **Motivation**
-Data preparation is required when working with neural network and deep learning models. Increasingly data augmentation is also required on more complex object recognition tasks.
+**Data preparation** is required when working with neural network and deep learning models. Increasingly data augmentation is also required on more complex object recognition tasks.
 Like the rest of Keras, the image augmentation API is simple and powerful.
 Keras provides the *ImageDataGenerator* class that defines the configuration for image data preparation and augmentation. This includes capabilities such as:
 * Sample-wise standardization.
