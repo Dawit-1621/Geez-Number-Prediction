@@ -32,7 +32,7 @@ Keras provides the *ImageDataGenerator* class that defines the configuration for
 * Save augmented images to disk.
 
 ## Project Motivation
-
+Geez numbers represents by 1-9 symbols but there is no zero concept and as such no symbol for zero. However, there are independent symbols for 10, 20, 30, 40, 50, 60, 70, 80, 90, and 100. .The Geez character numbers have symbol similarities with the Geez letters. The main difference in most of the symbols are the two dashes/horizontal lines above and below the character of Geez. 
 ## Porject Descriptions 
 
 ## Licensing, Authors, Acknowledgements
